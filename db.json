@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "James",
+      "lastName": "May",
+      "email": "fake@gmail.com",
+      "dob": "2023-06-26T23:00:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "Google",
+      "experience": 1,
+      "package": 100,
+      "id": 1
+    },
+    {
+      "firstName": "Steven",
+      "lastName": "Brown",
+      "email": "steven@gmail.com",
+      "dob": "2023-06-27T23:00:00.000Z",
+      "gender": "",
+      "education": "Post-Graduate",
+      "company": "Facebook",
+      "experience": 3,
+      "package": 2000,
+      "id": 2
+    }
+  ]
+}
